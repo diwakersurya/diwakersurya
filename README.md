@@ -4,7 +4,10 @@
 - 💬 Ask me about react,components,css
 - 📫 How to reach me: diwaker.surya@gmail.com
 
-![](https://unsplash.com/photos/tQIl6Ayd0wU) 
+
+
+
+![](https://images.unsplash.com/photo-1569241705540-87831ea3e1bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1993&q=80) 
 
 <!--
 **diwakersurya/diwakersurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
