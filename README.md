@@ -1,10 +1,3 @@
-### Hi there 👋
-- 🔭 I’m currently working on nodejs, react
-- 🌱 I’m currently learning webassembly, android, kotlin
-- 💬 Ask me about react,components,css
-- 📫 How to reach me: diwaker.surya@gmail.com
-
-
 
 
 ![](https://images.unsplash.com/photo-1569241705540-87831ea3e1bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1993&q=80) 
