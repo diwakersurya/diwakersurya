@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on nodejs, react
+- 🌱 I’m currently learning webassembly, android, kotlin
+- 💬 Ask me about react,components,css
+- 📫 How to reach me: diwaker.surya@gmail.com
 
 <!--
 **diwakersurya/diwakersurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
