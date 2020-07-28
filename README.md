@@ -2,7 +2,7 @@
 
 ![](https://image-serv.glitch.me/image)  
 
-                         ⚡ Fun fact: * Refresh page to change the message language and bacground color. *
+                         ⚡ Fun fact: * Refresh page to change the message language and background color. *
 <!--
 **diwakersurya/diwakersurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
