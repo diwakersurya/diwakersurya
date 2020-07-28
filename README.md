@@ -2,6 +2,7 @@
 
 ![](https://image-serv.glitch.me/image)  
 
+Refresh page to change the message language
 <!--
 **diwakersurya/diwakersurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
