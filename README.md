@@ -1,7 +1,7 @@
 
 
 
-![](https://greeting-image-generator.diwaker-surya.workers.dev/image?user=diwakersurya)  
+![](https://greeting-image-generator.diwaker-surya.workers.dev/svg?user=diwakersurya)  
 
                          ⚡ Fun fact: * Refresh page to change the message language and background color. *
 <!--
