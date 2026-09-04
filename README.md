@@ -1,9 +1,9 @@
 
 
 
-![](https://greeting-image-generator.dwkr.workers.dev/profile?user=diwakersurya&name=Hi%2C%20I%27m%20Diwaker%20Singh&taglines=Building%20with%20web%2C%20cloud%2C%20and%20AI.%7CTurning%20ideas%20into%20developer%20experiences.&theme=aurora)  
+![](https://greeting-image-generator.dwkr.workers.dev/profile?user=diwakersurya&name=Diwaker%20Singh&taglines=Building%20with%20web%2C%20cloud%2C%20and%20AI.%7CTurning%20ideas%20into%20developer%20experiences.&theme=aurora)  
 
-                         ⚡ Fun fact: * Refresh page to change the message language and background color. *
+                         ⚡ Fun fact: * Refresh page to change the greeting slautation. *
 <!--
 **diwakersurya/diwakersurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
